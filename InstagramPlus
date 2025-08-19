@@ -1,6 +1,14 @@
 {
-  "version": "0.37.40",
-  "title": "Update Available",
-  "message": "We've updated the app! Bug fixes and performance improvements have been added for a smoother experience.",
-  "download_url": "https://telegram.me/Opmods4u"
-}
+  "versionCode": 999999999,
+  "versionName": "292.0.0.30.123",
+  "Msg": "New mod update available, to continue use our mod app please update it.
+ 
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+ 
+Thanks for using our Mods 😍",
+  "downloadLink": "https://telegram.me/straxmod"
+  }
