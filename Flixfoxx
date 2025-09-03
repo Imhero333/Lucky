@@ -1,8 +1,10 @@
 {
-  "versionCode": 90,
-  "versionName": "2.0.1",
-  "Msg": "🚀 Exciting new mod update available! Please update Latest to continue using our mod app.
-
-What's new:\n- Enhanced performance for a smoother experience.\n- Resolved bugs for improved stability.\n- Exciting new features added.\n- Various minor improvements.\n\nThank you for being a part of our mod community! ❤️",
-  "downloadLink": "https://t.me/straxmod"
+  "version": "2.3.6",
+  "title": "New Update Available!",
+  "NewVersion": "2.3.6",
+  "downloadLink": "https://telegram.me/StraxMod",
+  "changeLogMessage": "-Enhanced stability with bug fixes\n- Improved overall performance for a smoother experience\n- Exciting new features and enhancements",
+  "negativebtn": "Later",
+  "positivebtn": "Update Now",
+  "changelogTitle": "Latest Version !!"
 }
