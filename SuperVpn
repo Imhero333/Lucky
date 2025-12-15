@@ -1,7 +1,7 @@
 {
-  "version": "2.16.1",
+  "version": "2.18.1",
   "title": "New Update Available!",
-  "NewVersion": "2.16.1",
+  "NewVersion": "2.18.1",
   "downloadLink": "https://telegram.me/straxmod",
   "changeLogMessage": "-Enhanced stability with bug fixes\n- Improved overall performance for a smoother experience\n- Exciting new features and enhancements",
   "negativebtn": "Later",
